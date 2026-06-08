@@ -1,1 +1,3 @@
-# Tverrfaglig-Eksamen-Forberedelse
+Kilder:
+
+https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
